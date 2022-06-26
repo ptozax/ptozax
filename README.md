@@ -1,7 +1,8 @@
 
-
 ## ![Banner](/header.png)
 <p align="right"> <img src="https://www.codewars.com/users/ptozax/badges/small" alt="codewar" /> </p>
+
+   I am a full-time Backend and Game Developer. I have started Backend Development since the internship and develop some applications and games to  get more experience then my goals are made game and application to solve user problem, answer business and improve myself.
 
 ## 💻 My Tech Stack
 
@@ -21,9 +22,6 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RD](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
 
 #### Other
 ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
