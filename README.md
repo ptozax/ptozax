@@ -4,6 +4,11 @@
 
    I am a full-time Backend and Game Developer. I have started Backend Development since the internship and develop some applications and games to  get more experience then my goals are made game and application to solve user problem, answer business and improve myself.
 
+## 📫 How to reach me
+- [![Linkedin Badge](https://img.shields.io/badge/-CHITPANU-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chitpanu-thongsawat-9a094a115/)](https://www.linkedin.com/in/chitpanu-thongsawat-9a094a115/)
+- [![Gmail Badge](https://img.shields.io/badge/-ptozax@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ptozax@gmail.com)](mailto:ptozax@gmail.com)
+
+
 ## 💻 My Tech Stack
 
 #### Languages
